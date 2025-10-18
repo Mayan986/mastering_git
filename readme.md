@@ -1,4 +1,6 @@
-## Welcom to Git!
+## Learning ,Git!
 
 - This is coming from `feature1`
+
 - I'm adding this from `feature-branch`
+- Hello, Mayan here!
